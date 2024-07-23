@@ -1,0 +1,37 @@
+# Python cache
+__pycache__/
+
+# Virtual Environment
+anim_env/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Project-specific files
+config.json
+
+# Logs
+*.log
+
+# Build outputs
+build/
+dist/
+*.egg-info/
+
+# Test coverage
+.coverage
+htmlcov/
+
+# Temporary files
+*.tmp
+*.bak
+
+# Jupyter Notebook
+.ipynb_checkpoints
